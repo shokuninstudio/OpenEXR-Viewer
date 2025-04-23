@@ -24,7 +24,7 @@ class Canvas(QWidget):
 
         self.drawing = False
         self.last_point = QPoint()
-        self.pen_color = QColor("black")
+        self.pen_color = QColor("red")
         self.pen_width = 2
 
     def mousePressEvent(self, event: QMouseEvent):
