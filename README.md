@@ -1,6 +1,6 @@
 # OpenEXR Viewer
 
-A simple yet powerful viewer and editor for OpenEXR (.exr) files with annotation capabilities.
+A simple viewer for OpenEXR (.exr) files with annotation capabilities.
 
 ## Features
 
