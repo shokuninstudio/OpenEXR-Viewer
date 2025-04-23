@@ -41,6 +41,13 @@ If you need to add support for OpenEXR in your Python based app feel free to use
 
   `python openexr_viewer.py`
 
+  ## Next Update
+
+- Change colour of annotation tool
+- Undo/Redo annotation tool
+- More file formats to convert
+- Binaries for macOS and Windows
+
 ## License
 
 This project is licensed under the Apache License Version 2.0.
