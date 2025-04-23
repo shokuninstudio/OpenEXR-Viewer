@@ -1,6 +1,6 @@
 # OpenEXR Viewer
 
-A simple viewer for OpenEXR (.exr) files with annotation capabilities.
+A simple Python based viewer for OpenEXR (.exr) files with annotation capabilities.
 
 ## Features
 
@@ -19,6 +19,7 @@ The application allows you to make annotations and notes directly on your images
 
 When displaying EXR images, the application uses the Reinhard tone mapping operator to convert high dynamic range content to a displayable range while preserving detail in both highlights and shadows.
 
+If you need to add support for OpenEXR in your Python based app feel free to use the import and export code herewithin. 
 ## Screenshot
 
 [![temp-Image-V0-Pxnq.avif](https://i.postimg.cc/jq6gbrhm/temp-Image-V0-Pxnq.avif)](https://postimg.cc/bdJHxWW9)
