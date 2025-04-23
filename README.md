@@ -10,12 +10,12 @@ A simple viewer for OpenEXR (.exr) files with annotation capabilities.
 - Export annotated images back to OpenEXR or PNG
 - Simple and intuitive user interface
 
-The application allows you to make annotations and notes directly on your images. This is particularly useful for:
+The application allows you to make annotations and notes directly on your images for:
 
-Marking areas of interest in HDR images
-Adding comments for collaborators
-Highlighting artifacts or areas for correction
-Creating visual guides and references
+- Marking areas of interest in HDR images
+- Adding comments for collaborators
+- Highlighting artifacts or areas for correction
+- Creating visual guides and references
 
 When displaying EXR images, the application uses the Reinhard tone mapping operator to convert high dynamic range content to a displayable range while preserving detail in both highlights and shadows.
 
@@ -25,20 +25,20 @@ When displaying EXR images, the application uses the Reinhard tone mapping opera
 
 ## Installation
 
-Prerequisites
+1. Prerequisites
 
 - Python 3.6 or higher
 - PySide6 (Qt for Python)
 - NumPy
 - OpenImageIO
 
-Install dependencies
+2. Install dependencies
 
-pip install pyside6 numpy openimageio
+  `pip install pyside6 numpy openimageio`
 
-Run the application
+3. Run the application
 
-python openexr_viewer.py
+  `python openexr_viewer.py`
 
 ## License
 
