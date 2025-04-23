@@ -7,7 +7,7 @@ A simple Python based viewer for OpenEXR (.exr) files with annotation capabiliti
 - View high dynamic range OpenEXR (.exr) images with proper tone mapping
 - Draw and annotate directly on images
 - Support for OpenEXR and PNG used by the animation industry
-- Export annotated images back to OpenEXR or PNG
+- Export annotated images back to OpenEXR or convert to PNG
 - Simple and intuitive user interface
 
 The application allows you to make annotations and notes directly on your images for:
