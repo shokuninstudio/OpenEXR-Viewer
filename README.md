@@ -45,6 +45,6 @@ If you need to add support for OpenEXR in your Python based app feel free to use
 
 This project is licensed under the BSD 2-Clause License.
 
-[OpenImageIO]([https://doc.qt.io/qtforpython-6/licenses.html](https://github.com/AcademySoftwareFoundation/OpenImageIO) for EXR file support
+[OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) for EXR file support
 
 Since this project uses [PySide](https://doc.qt.io/qtforpython-6/licenses.html), it follows the LGPL requirements.
