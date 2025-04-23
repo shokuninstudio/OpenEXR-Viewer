@@ -43,7 +43,7 @@ If you need to add support for OpenEXR in your Python based app feel free to use
 
 ## License
 
-This project is licensed under the BSD 2-Clause License.
+This project is licensed under the Apache License Version 2.0.
 
 [OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) for EXR file support
 
