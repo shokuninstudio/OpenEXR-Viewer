@@ -1,6 +1,6 @@
 # OpenEXR Viewer
 
-A simple Python based viewer for OpenEXR (.exr) files with annotation capabilities. I built this quickly as a prototype so I could figure out how to support and display OpenEXR in a another app. It turned out to work well enough to share here for anyone who needs to support OpenEXR.
+A simple Python based viewer for OpenEXR (.exr) files with annotation capabilities. I built this quickly as a prototype so I could figure out how to support and display OpenEXR in another app. It turned out to work well enough to share here for anyone who needs to support OpenEXR.
 
 ## Features
 
